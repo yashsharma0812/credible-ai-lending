@@ -2,8 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/774d06f9-bc77-423b-8026-3ed735d1d3fb
-
+**URL**: https://credible-ai-lending.vercel.app/
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
