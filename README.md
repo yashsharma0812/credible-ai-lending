@@ -1,4 +1,5 @@
 # Welcome to credible-ai-lending
+Credible – AI Lending Platform is a decentralized, AI-driven lending MVP where users can borrow or lend money using a transparent scoring system and blockchain-simulated smart contracts. It features user onboarding with KYC, an AI credit scoring engine using alternative data, and a loan marketplace for posting and funding loan requests. Smart contract simulations handle loan approval, disbursement, repayment tracking, and immutable ledger records, ensuring transparency and security. The platform provides dashboards for borrowers and lenders, along with privacy/compliance tools, all wrapped in a clean, fintech-style UI.
 
 ## Project info
 
